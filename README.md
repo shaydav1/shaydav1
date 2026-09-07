@@ -25,5 +25,5 @@ I specialize in building scalable data pipelines, modern data warehousing, data 
 
 ## 📫 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/shaydav1](https://www.linkedin.com/in/shaydav1) *(עדכן לקישור ה-LinkedIn המדויק שלך)*
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/shay-davidovitch/]
 * 📧 **Email:** [shaydav89@gmail.com]
